@@ -16,4 +16,5 @@ const CONFIG = {
     messDesc: 'Thế thì bắt đầu thuiiiiii',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/Minhunt131/' 
+    }
 
