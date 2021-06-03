@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Mặc dù 
     Đã nhiều lần cố gắng
     Để bắt chuyện với em 
-    Nhưng anh đều thất bại`,
+    Nhưng anh đều thất bại 😢😢`,
     btnIntro: 'Vậy sao',
     title: 'Mình có thể nói chuyện với nhau chứ 😙',
     desc: 'Nhá nhá nháaaaaaaa ',
