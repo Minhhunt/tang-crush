@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Chào Phươngg!',
-    introDesc: `Mặc dù 
-    Đã nhiều lần cố gắng
-    Để bắt chuyện với em 
-    Nhưng anh đều thất bại 😢😢`,
-    btnIntro: 'Vậy sao',
-    title: 'Mình có thể nói chuyện với nhau chứ 😙',
-    desc: 'Nhá nhá nháaaaaaaa ',
-    btnYes: 'Được thuiiiii',
+   introTitle: 'Bbi à!',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: 'hihi',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Vẫn cứ là thích anh <33',
     btnNo: 'Không, Anh trai à :3',
-    question:'Vậy chúng ta bắt đầu cuộc trò chuyện thôii',
-    btnReply: 'Câu trả lời của em',
-    reply: 'Em muốn ib với anhh <33',
-    mess: 'Anh biết mà 🥰. Hihiii',
-    messDesc: 'Ib cho anh nhé <3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'Em yêu anh nhiềuuu nhiềuuu <3333',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Công chúa ib cho anh nhaaa',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/t/100029212189343'
     }
